@@ -1,4 +1,5 @@
 # CinemaChair
+Task solved by using express and mysql2 Node.js library on the server side, react on the client side.
 
 ## Available Scripts
 
